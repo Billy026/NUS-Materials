@@ -1,0 +1,22 @@
+# CS1101S-2324-Sem1
+- Elements of Programming
+- Substitution Model
+- Recursion
+- Orders of Growth
+- Iterative and Recursive Processes
+- Tree Recursion
+- Higher-Order Functions
+- Scope of Names
+- Data Abstraction
+- Lists and Trees
+- Searching
+- Sorting on Lists
+- Symbolic Processing
+- Mutable Data
+- Environment Model
+- Arrays
+- Loops
+- Searching and Sorting Arrays
+- Memoization
+- Streams
+- Meta-Circular Evaluator
